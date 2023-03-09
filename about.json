@@ -1,10 +1,6 @@
-[ {
-        
-    "about":"Hello i am Ajit Gode, and iam working as test engineer and also i have experience in frontend developer"
-},
-{
-        
-    "about":"Hello i am Vaibhav Gode, and iam working as test engineer and also i have experience in frontend developer"
-}
-
+[
+    {
+        "name": "Ajit Gode",
+        "about": "Hello i am Ajit Gode, and iam working as test engineer and also i have experience in frontend developer"
+    }
 ]

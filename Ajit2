@@ -1,0 +1,59 @@
+Adding the Mortgagee																
+																
+1	Verify the 1st Mortagee															
+2	Make a note of Effective date of Policy															
+3	Go Website -> Make a note of Premium amt, Remaining balance / Due amt and Replacement cost															
+4	Drag & Drop email request															
+5	Description : Binder request: Bank name															
+6	Category: Memo															
+7	Log & Attach -> Fax -> From -> Mortgagee -> Change client policy -> Additional Interest -> New															
+8	Type: MG Mortgagee															
+9	Update Mortgagee Name and address -> Loan number -> OK															
+10	Click Forms -> New -> Search "Binder" -> Select recent version of Insurance Binder -> Select															
+11	Select Mortgagee name for which you want to send the Binder -> Select															
+12	Update Policy period/Policy Prem/Replacement cost at the bottom of the policy document															
+13	Policy period:															
+14	Policy premium: $***** (Bal: $****)															
+15	Click Print -> Apply Agent Signature (Christopher Fitts)															
+16	Send Email -> OK -> No Template															
+17	Email To: Servicer															
+18	Email subject: Binder <Insured Name>															
+19	Email body: Attached is the requested binder. Please let me know if the loan has closed. if it has not please let me know what the estimated closing date would be.															
+20	Finish and Close															
+21	Back to Forms screen -> Click Properties															
+22	Description: Insurance Binder - Bank name															
+23	Hit Ok -> OK															
+24	Log															
+25	Description: Binder sent to <Bank name>															
+26	Notes: Waiting on updated closing date if there is one															
+27	Suspense date: 2 or 3 days after the processed date															
+28	Category: Change request															
+29	Hit OK															
+																
+Response received from Servicer with Closing Date																
+																
+1	Open log -> Close Suspense															
+2	Email -> From -> Mortgagee -> Inquiry website -> Update mortgagee change in website															
+3	Endorsed Date: Closing date															
+4	Once Mortgagee change is done in the carrier site but NEW CHANGE POLICY DOCUMENT IS NOT AVAILABLE															
+		Click Log														
+		Description: Add 2nd Mortgagee: Bank name														
+		Notes: Waiting on Policy dec change														
+		Suspend Date -> Category : Followup														
+5	If NEW CHANGE POLICY DOCUMENT IS AVAILABLE, then just verify but no need to download as we are not sending the Dec page															
+		Open Log -> Close Suspense														
+		Notes: Processed and Closed- No dec page needed to be sent														
+																
+If a policy is categorized as "Home (Prospect) only"																
+																
+1	Drag and drop the email to the Hawksoft.															
+2	Description: Binder Request - Bank Name.															
+3	Category: Memo															
+4	Log & Attach: Fax-> From-> Mortgagee-> Send Email-> Select Producer and CSR from Email Recipients-> OK-> No Template.															
+5	Mail Subject: Binder Request - Insured Name.															
+6	Make a note in email body: "Attached is the requested binder. Please let me know if you will be sending out when you issue the policy".															
+7	Send the email-> Log.															
+8	Description: Binder Request - Bank Name.															
+9	Make Note:- Send Email to producer and AM to see if I should issue binder.															
+10	Check mark - Suspend Transaction -> Suspense Date - 2-3 days later from the Processed date, Assign to -> FWS, Category - Follow Up, Hit -> OK.															
+11	Wait for reply. According to reply work accordingly.															

@@ -1,0 +1,146 @@
+If Policy has Red cross with status shows "Replaced - Book Roll".												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft. / Click on "Close Suspense log" 																		
+2	Description: Mortgagee Request - Bank name.																		
+3	Category: Memo																		
+4	Log & Attach ------> Email / Fax ------> From ------> Mortgagee / Insured / Other ------> Inquiry/Website:- carrier website will open.																		
+5	Complete the activity in Carrier website																		
+6	Click on the Send Email ------> Hit OK ------> Select the template as "No Template".------> Email box will open:																		
+7	Email Subject: Copy of policy - Insured Name.																		
+8	Body of Email: Please find the attached policy document.																		
+9	Click on Finish.																		
+10	Add Comments in LOG ------> Click Ok.																		
+																			
+If Policy tab shows status as "Renewal (Pending)" and there is another tab which is PROSPECT tab												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft. / Click on "Close Suspense log" 																		
+2	Description: Mortgagee Request - Bank name.																		
+3	Category: Memo																		
+4	Log & Attach ------> Email / Fax ------> From ------> Mortgagee / Insured / Other ------> Log																		
+5	Description: Mortgagee Request - Bank name.																		
+6	Make Note:- Waiting for Prospect policy to be active to ensure the correct policy document is sent.																		
+7	Check mark ------> Suspend Transaction ------> Suspense Date ------> Future eff Date ------> Assign to FWS ------> Category - Follow Up ------> Hit OK.																		
+																			
+If policy crossed the expiration date under CURRENT policy tab and is not reflecting yet under the PROSPECT tab.												-------------------------------------------------------							
+																			
+																			
+1	Open the LOG of PROSPECT TAB which has the comment of bringing the PROSPECT policy active.																		
+2	Append the log and mention: Mortgagee Update to <Bank Name> and <Bank details> ------> Highlight the comments in red color. ------>  Click OK																		
+3	Drag and drop the email to the CURRENT policy (Expiration date passed)																		
+4	Description: Mortgagee Request - Bank name.																		
+5	Category: Memo																		
+6	Log & Attach ------>  Email / Fax ------>  From ------>  Mortgagee / Insured / Other ------> Log																		
+7	Description: Mortgagee Request - Bank name.																		
+8	Make Note:- Waiting on prospect home policy. Also sent an email to AM to confirm if it is alright to send Policy doc under current policy tab																		
+9	Send Email to AM. Subject: <Insured Name> Policy# <Policy#> - <Policy Type>																		
+10	Body of the Email: Please confirm if it is alright to send the Policy document under the current <Policy Type> policy as <Reason>																		
+11	Drag and drop the email which is sent to the AM																		
+12	Description: Email sent to AM																		
+13	Category: Email																		
+14	Check mark  ------> Suspend Transaction ------> Suspense Date ------>  Future eff Date ------>  Assign to FWS ------> Category - Follow Up ------> Hit OK.																		
+																			
+If there is only one Home policy and if status is either "Active" or "Renewal" or "Renewal(Pending)".												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft. / Click on "Close Suspense log" 																		
+2	Description: Mortgagee Request - Bank name																		
+3	Category: Memo																		
+4	Log & Attach ------> Email / Fax ------> From ------> Mortgagee / Insured / Other ------> Inquiry/Website:- carrier website will open.																		
+5	Complete the activity in Carrier website																		
+6	Click on the Send Email ------> Hit OK ------> Select the template as "No Template".------> Email box will open:																		
+7	Email Subject: Copy of policy - Insured Name.																		
+8	Body of Email: Please find the attached policy document.																		
+9	Click on Finish.																		
+10	Add Comments in LOG ------> Click Ok.																		
+																			
+If status shows "Cancelled: Non-Payment".												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft.																		
+2	Description: Mortgagee Request - Bank name.																		
+3	Category: Memo																		
+4	Log & Attach ------> Email / Fax ------> From ------> Mortgagee / Insured / Other ------> Send Email------> No Template------> Ok																		
+5	Email to Account Manager: Subject: Policy XNP: <Insured Full Name>, Policy Number #<>.																		
+6	Body of the Email: This was cancelled for non-payment. Am I okay to disregards this notice?																		
+7	Log -------> Description: Mortgagee Request - Bank name.																		
+8	Make Note:- Sent <AM Name> email to see if I needed to send anything out.																		
+9	Check mark ------> Suspend Transaction ------> Suspense Date - 2 days later ------> Assign to FWS ------> Category - Follow Up ------> Hit OK.																		
+																			
+																			
+If request has come from the INSURED OR CURRENT MORTGAGEE												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft. / Click on "Close Suspense log" 																		
+2	Description: Mortgagee Request - Bank Name.																		
+3	Category: Memo																		
+4	Log & Attach ------> Email / Fax ------> From ------> Mortgagee ------> Change Client Policy ------> Additional Interests ------> Edit ------> Add New MTG details ------> Hit OK ------> Finish ------> OK.																		
+5	Complete the activity in Carrier website																		
+6	Click on the Send Email ------> Hit OK ------> Select the template as "No Template".------> Email box will open:																		
+7	Subject: Copy of policy - Insured Name.																		
+8	Body of the Email: Please find the attached policy document																		
+9	Click on finish.																		
+10	Add Comments in LOG ------> Click Ok.																		
+																			
+If request does not come from the INSURED OR CURRENT MORTGAGEE												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft. / Click on "Close Suspense log" 																		
+2	Description: Mortgagee Request - Bank Name.																		
+3	Category: Memo																		
+4	Log & Attach ------> Email / Fax ------> From ------> Mortgagee  ------> Send Email ------> Hit OK ------> Select the template as "No Template".------> Email box will open:																		
+5	Subject: Copy of policy - Insured Name.																		
+6	Body of the Email: Please confirm if <Bank Name> to be listed in your <Policy Type> policy.																		
+7	Click on finish.																		
+8	Add Comments in LOG ------> Suspend the LOG -------> Click Ok.																		
+																			
+If Insured sends the request for the Insurance binder, then agent can proceed same as with the procedure of Mortgagee change request from same bank.												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft. / Click on "Close Suspense log" 																		
+2	Description: Mortgagee Request - Bank name.																		
+3	Category: Memo																		
+4	Log & Attach ------> Email / Fax ------> From ------> Mortgagee / Insured / Other ------> Inquiry/Website:- carrier website will open.																		
+5	Complete the activity in Carrier website																		
+6	Click on the Send Email ------> Hit OK ------> Select the template as "No Template".------> Email box will open:																		
+7	Subject: Copy of policy - Insured Name.																		
+8	Body of the Email: Please find the attached policy document																		
+9	Click on finish.																		
+10	Add Comments in LOG ------> Click Ok.																		
+																			
+																			
+If there is a request to make correction in Mortgagee clause from same bank, then agent can go ahead and make the correction												-------------------------------------------------------							
+																			
+																			
+1	Drag and drop the email to the Hawksoft. / Click on "Close Suspense log" 																		
+2	Description: Mortgagee Request - Bank name.																		
+3	Category: Memo																		
+4	Log & Attach ------> Email ------> From ------> Insured ------> Change Client Policy ------> Additional Interests ------> Edit ------> Update the MTG details ------> Hit OK ------> Finish ------> OK.																		
+5	Inquiry/Website ------> Complete the acitivity in Carrier site																		
+6	Click on the Send Email ------> Hit OK ------> Select the template as "No Template".------> Email box will open:																		
+7	Subject: Copy of policy - Insured Name.																		
+8	Body of the Email: Please find the attached policy document																		
+9	Click on finish.																		
+10	Add Comments in LOG ------> Click Ok.																		
+																			
+If response not received from Insured												-------------------------------------------------------							
+																			
+																			
+1	Open the Log																		
+2	Email the respective Account Manager to follow up with the insured parties and suspend the log.																		
+3	Subject of Email: <Insured Name> - Policy# <Policy#> - <Policy Type>																		
+4	Body of the Email: Request you to please reach out to Insured as I have not heard anything from Insured and confirm if <Bank Name> to be listed as <Policy Type> policy and also confirm the Lien position.																		
+5	Click on ReSuspend																		
+6	Description: Mortgagee Request - Bank name.																		
+7	Note: Email sent to AM to reach out to Insured and confirm if <Bank Name> to be listed as <Policy Type> policy and also confirm the Lien position.																		
+8	Drag and Drop the email which is sent to the AM																		
+9	Description: Email sent to AM																		
+10	Category: Email 																		
+11	Suspend the Log ------> Click Ok.																		
+															
+
+
+
+
+

@@ -1,0 +1,52 @@
+The Boat renewal request came from Fitts Receptionist.
+
+Open the email and Hawksoft.
+Search by the Policy number given on the email or document.
+Drag and drop email to Hawksoft:- 
+Description:- 24-25 Boat Renewal
+Category:- Policy
+Eff Date:- As per policy document eff date.
+Premium:- <Total Annual Premium from policy document>-> Log & Attach
+Email-> From-> Company-> Change Policy Status-> Renewal-> 
+Date:- <Eff Date from Policy doc>
+Rate:- <Rate will total premium from policy doc>.-> OK.
+General Policy Information-> <Check all details> Most of the policies will be having Billing type as “Direct Bill”.
+Quoted Premium:- <Total Annual Premium from policy doc>.
+Click on “Operators”.-> Always there will be one operator(Insured Name).
+If request want to update the Operator details then double click on that Operator/Insured name and update accordingly.
+Click on Boats:- Match the “Unit Description” from policy document with Boats on policy section.
+Double click on the description-> Update the details as per policy document.
+Example:- Year:- 2004, Make:- “Parti Kraft”, Model:- “Godfrey Marine Ensign” 
+Hull ID:- <HIN from policy doc>
+Length will be given on policy document or else leave as is.
+Update the all coverages as listed in the policy document. -> Hit OK.
+No need to update the Fees/Discounts, Forms, Client Misc Info, Cross-Sell/ X dates, Claims
+Go to Boats-> Hit-> “Finish”.
+Click on Log-> 
+Description:- 24-25 Boat Renewal Processed
+Note:- Renewal processed - policy update. Please print and mail out to insured.
+<<Renewal Date: <Eff Date> at $ Premium> will be came in note section automatically.
+Click on -> Suspend Transaction,
+Suspense Date:- Tomorrows working date, Assign to-> “REC” which is Nancy.
+Category:- Renewal.- Hit “OK”.
+
+After that we need to update the Letter which is in Attachments labeled as “Boat - no pol w/card.
+Right click on this attachment and click on “Create a working document”.
+It will goes to “Working Documents” tab. Then delete the older letter from Working document tab.
+Open the latest created letter by double clicking the created letter.
+Update the date as “Today’s Date”.
+Double check the Insured’s address and make changes if necessary.
+Update the Term effective date.
+Click on Edit Footer:- Cross check all details and update the policy term and other’s as necessary.
+Close the header footer.-> Hit save. Close this letter.
+Right click on this letter from Working document tab and Click on “Check-In Finish”.
+Right click again and click on “Copy to Attachments”.
+Go to the Attachments tab. Right Click on the Letter and go to properties:
+Description will be:-  Boat -no pol w/Card
+Category:- Letters.
+Eff date:- <As given in policy doc> Hit OK.
+Then we need to Link that letter with out current log in policy.
+Go to our Log which created, and make not of that Log number.
+Go to Attachment, Right click on Letter and select “Link To Log”-> Enter the Log number and hit OK.
+Now this letter will be there in our log created and suspended to Nancy.
+That’s it. All work related to the Boat renewal is done.
